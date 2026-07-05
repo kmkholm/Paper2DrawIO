@@ -72,17 +72,7 @@ d.dim_pill(265, 245, "(B, 96, 250)")
 d.save("figure.drawio")
 ```
 
-## 🖼️ Design language
 
-| Role | Color |
-|---|---|
-| Deep / signal path | `#1c56b8` |
-| Handcrafted features | `#0e7c7b` |
-| Selection / attention | `#e07a1f` |
-| Novel modules (Mamba, KAN…) | `#5b2d8e` |
-| Classifier head | `#d81b60` |
-| Output / decision | `#2e7d32` |
-| Explainability | `#6a1b9a` |
 
 ## 📄 License
 
