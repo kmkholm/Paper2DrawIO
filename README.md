@@ -12,7 +12,7 @@ A [Claude Skill](https://docs.claude.com) that reads a research paper (PDF, LaTe
 
 ## ✨ Features
 
-- **Any architecture, any paper** — CNN, RNN, Transformer, Mamba, KAN, GAN, encoder–decoder, U-Net, diffusion, federated learning, RL, IDS pipelines, IoT/blockchain frameworks, multimodal systems.
+- **Any architecture, any paper** —
 - **9 adaptive layout patterns** — the figure layout follows the paper's real topology (single pipeline, multi-branch → fusion, encoder–decoder, ×N Transformer stacks, client–server FL, adversarial pairs, closed RL loops, layered system bands, diffusion chains). No forced templates.
 - **Publication-grade design system** — consistent role-based color palette, lettered block badges (A1, B1, F1, H1…), hyperparameter subtitles, tensor-shape dimension pills, decorative glyphs (feature-map stacks, neuron columns, spline panels, SHAP force plots, locks, clouds, Σ aggregation nodes).
 - **Novelty highlighting** — the paper's core contribution module gets a visually distinctive treatment so reviewers see it instantly.
@@ -91,7 +91,7 @@ MIT — see [LICENSE](LICENSE).
 ## 👤 Author
 
 **Mohammed Tawfik** — Assistant Professor, Cybersecurity & Cloud Computing
-Sana'a University · [GitHub @kmkholm](https://github.com/kmkholm) · [kmkholm.github.io](https://kmkholm.github.io) · ORCID [0000-0002-1227-387X](https://orcid.org/0000-0002-1227-387X)
+ · [GitHub @kmkholm](https://github.com/kmkholm) · [kmkholm.github.io](https://kmkholm.github.io) · ORCID [0000-0002-1227-387X](https://orcid.org/0000-0002-1227-387X)
 
 ## ⭐ Citation
 
